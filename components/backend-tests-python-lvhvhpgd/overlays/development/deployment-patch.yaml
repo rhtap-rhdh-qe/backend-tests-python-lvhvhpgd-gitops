@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/backend-tests-python-lvhvhpgd:azure-fd5b6d7b3aba7b3c28a81bbb8b93e06b9b6ff896
+        - image: quay.io/rhtap_qe/backend-tests-python-lvhvhpgd:azure-9c8258e33249ad327ffb71372ab29c0e373270db
           name: container-image
